@@ -2,50 +2,49 @@
 
 LOW ⚪🔴🟠🟡🔵🟢 HIGH
 
-|                                   | Speed | Creativity | Focus | Large Group | Involvement |
-|:----------------------------------|:-----:|:----------:|:-----:|:-----------:|:-----------:|
-| [Speed Dating](#speed-dating)     |  🔵   |     🔴     |  🟢   |     🟡      |     🟢      |
-| [Pair Interview](#pair-interview) |  🟡   |     🟡     |  🟢   |     🔴      |     🟠      |
-| [Visual Hobby](#visual-hobby)     |  🟡   |     🟢     |  🟢   |     🟠      |     🟢      |
-| [Shopping Mall](#shopping-mall)   |  🔴   |     🔴     |  🟡   |     🟡      |     🔵      |
-| Geographic Location               |  🟠   |     🟠     |  🔵   |     🟡      |     🔵      |
-| 3 Questions                       |  🔵   |     🟠     |  🟢   |     🟡      |     🟡      |
-| Goal                              |  🔵   |     ⚪      |  🟢   |     🟢      |     🟡      |
-| Ground Rules                      |  🟡   |     ⚪      |  🟢   |     🔵      |     🟠      |
-| Agenda                            |  🟡   |     ⚪      |  🟢   |     🔵      |     🔵      |
-| Parking                           |  🔵   |     🟡     |  🔴   |     🟢      |     🟠      |
-| Timer                             |  🟢   |     🟡     |  🟡   |     🔵      |     🔵      |
-| Protocol                          |  🟢   |     🟢     |  🔴   |     🟢      |     🔵      |
-| 5 Why                             |  🟠   |     🟡     |  🟢   |      ⚪      |     🟡      |
-| Root Cause Diagram                |   ⚪   |     🟠     |  🟡   |      ⚪      |     🟠      |
-| 1 Word Focusing                   |  🟢   |     ⚪      |  🟢   |     🔵      |     🔵      |
-| Target of Responsibility          |  🟡   |     🟠     |  🔵   |     🟡      |     🟡      |
-| Debrief                           |  🟢   |     🟠     |  🟢   |     🔵      |     🟢      |
-| Plus / Minus                      |  🔵   |     🟡     |  🟡   |     🟠      |     🟡      |
-| Plus / Delta / Idea / Question    |  🔵   |     🟡     |  🟡   |     🔵      |     🔵      |
-| Focusing Canvas                   |  🟡   |     🟡     |  🟡   |     🟠      |     🟡      |
-| Brainstorming (technique)         |  🟢   |     🟢     |  🔴   |     🟢      |     🟢      |
-| Brainstorming (tool)              |  🟢   |     🟢     |  🟢   |     🟢      |     🟢      |
-| Advice Brainstorm                 |  🔵   |     🔵     |  🔴   |     🟠      |     🟢      |
-| Hopes and Concerns                |  🟢   |     🟢     |  🟠   |     🟡      |     🔵      |
-| Info Gathering                    |  🟡   |     🟢     |  🟡   |     🟠      |     🟡      |
-| Anonymous Gathering               |  🟢   |     🟢     |  🟠   |     🔵      |     🟠      |
-| Dot Voting                        |  🟢   |     ⚪      |  🔵   |     🟢      |     🟢      |
-| Finger Voting                     |  🟢   |     🔴     |  🔵   |     🔵      |     🟢      |
-| Consensus                         |  🟡   |     ⚪      |  🟢   |     🟡      |     🟡      |
-| Silence Grouping                  |  🟢   |     🔴     |  🔵   |     🔵      |     🟠      |
-| Participants Grouping             |  🟡   |     🔵     |  🟡   |     🟡      |     🟠      |
-| Facilitator Grouping              |  🟠   |     🔴     |  🔵   |     🟠      |     🔴      |
-| Poster Section                    |  🟢   |     🟡     |  🟡   |     🟢      |     🔵      |
-| Consensus Elimination             |  🟢   |     ⚪      |  🟢   |     🟢      |     🟠      |
-| Monkey on the Mountain            |  🟢   |     🟠     |  🟢   |     🟢      |     🟢      |
-| Hand of Silence                   |  🟡   |     🟠     |  🔵   |     🟢      |     🟢      |
-| Action Plan                       |  🔵   |     🟡     |  🟢   |     🟡      |     🔵      |
-| Happiness Radar                   |  🔵   |     🟠     |  🟢   |     🔴      |     🟢      |
-| Talking Stick                     |  🟡   |     🟠     |  🟢   |     🟡      |     🟡      |
-| Visualization                     |  🟡   |     🔵     |  🔵   |     🔵      |     🟢      |
-| Small Groups                      |  🟢   |     🟢     |  🟢   |     🟢      |     🟢      |
-
+|    |                                   | Speed | Creativity | Focus | Large Group | Involvement |
+|:--:|:----------------------------------|:-----:|:----------:|:-----:|:-----------:|:-----------:|
+| 1  | [Speed Dating](#speed-dating)     |  🔵   |     🔴     |  🟢   |     🟡      |     🟢      |
+| 2  | [Pair Interview](#pair-interview) |  🟡   |     🟡     |  🟢   |     🔴      |     🟠      |
+| 3  | [Visual Hobby](#visual-hobby)     |  🟡   |     🟢     |  🟢   |     🟠      |     🟢      |
+| 4  | [Shopping Mall](#shopping-mall)   |  🔴   |     🔴     |  🟡   |     🟡      |     🔵      |
+| 5  | Geographic Location               |  🟠   |     🟠     |  🔵   |     🟡      |     🔵      |
+| 6  | 3 Questions                       |  🔵   |     🟠     |  🟢   |     🟡      |     🟡      |
+| 7  | Goal                              |  🔵   |     ⚪      |  🟢   |     🟢      |     🟡      |
+| 8  | Ground Rules                      |  🟡   |     ⚪      |  🟢   |     🔵      |     🟠      |
+| 9  | Agenda                            |  🟡   |     ⚪      |  🟢   |     🔵      |     🔵      |
+| 10 | Parking                           |  🔵   |     🟡     |  🔴   |     🟢      |     🟠      |
+| 11 | Timer                             |  🟢   |     🟡     |  🟡   |     🔵      |     🔵      |
+| 12 | Protocol                          |  🟢   |     🟢     |  🔴   |     🟢      |     🔵      |
+| 13 | 5 Why                             |  🟠   |     🟡     |  🟢   |      ⚪      |     🟡      |
+| 14 | Root Cause Diagram                |   ⚪   |     🟠     |  🟡   |      ⚪      |     🟠      |
+| 15 | 1 Word Focusing                   |  🟢   |     ⚪      |  🟢   |     🔵      |     🔵      |
+| 16 | Target of Responsibility          |  🟡   |     🟠     |  🔵   |     🟡      |     🟡      |
+| 17 | Debrief                           |  🟢   |     🟠     |  🟢   |     🔵      |     🟢      |
+| 18 | + / -                             |  🔵   |     🟡     |  🟡   |     🟠      |     🟡      |
+| 19 | + / Δ+ / ! / ?                    |  🔵   |     🟡     |  🟡   |     🔵      |     🔵      |
+| 20 | Focusing Canvas                   |  🟡   |     🟡     |  🟡   |     🟠      |     🟡      |
+| 21 | Brainstorming (technique)         |  🟢   |     🟢     |  🔴   |     🟢      |     🟢      |
+| 22 | Brainstorming (tool)              |  🟢   |     🟢     |  🟢   |     🟢      |     🟢      |
+| 23 | Advice Brainstorm                 |  🔵   |     🔵     |  🔴   |     🟠      |     🟢      |
+| 24 | Hopes and Concerns                |  🟢   |     🟢     |  🟠   |     🟡      |     🔵      |
+| 25 | Info Gathering                    |  🟡   |     🟢     |  🟡   |     🟠      |     🟡      |
+| 26 | Anonymous Gathering               |  🟢   |     🟢     |  🟠   |     🔵      |     🟠      |
+| 27 | Dot Voting                        |  🟢   |     ⚪      |  🔵   |     🟢      |     🟢      |
+| 28 | Finger Voting                     |  🟢   |     🔴     |  🔵   |     🔵      |     🟢      |
+| 29 | Consensus                         |  🟡   |     ⚪      |  🟢   |     🟡      |     🟡      |
+| 30 | Silence Grouping                  |  🟢   |     🔴     |  🔵   |     🔵      |     🟠      |
+| 31 | Participants Grouping             |  🟡   |     🔵     |  🟡   |     🟡      |     🟠      |
+| 32 | Facilitator Grouping              |  🟠   |     🔴     |  🔵   |     🟠      |     🔴      |
+| 33 | Poster Section                    |  🟢   |     🟡     |  🟡   |     🟢      |     🔵      |
+| 34 | Consensus Elimination             |  🟢   |     ⚪      |  🟢   |     🟢      |     🟠      |
+| 35 | Monkey on the Mountain            |  🟢   |     🟠     |  🟢   |     🟢      |     🟢      |
+| 36 | Hand of Silence                   |  🟡   |     🟠     |  🔵   |     🟢      |     🟢      |
+| 37 | Action Plan                       |  🔵   |     🟡     |  🟢   |     🟡      |     🔵      |
+| 38 | Happiness Radar                   |  🔵   |     🟠     |  🟢   |     🔴      |     🟢      |
+| 39 | Talking Stick                     |  🟡   |     🟠     |  🟢   |     🟡      |     🟡      |
+| 40 | Visualization                     |  🟡   |     🔵     |  🔵   |     🔵      |     🟢      |
+| 41 | Small Groups                      |  🟢   |     🟢     |  🟢   |     🟢      |     🟢      |
 
 ## Speed Dating
 Скоростное знакомство
